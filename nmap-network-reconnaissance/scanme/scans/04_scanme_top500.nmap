@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Fri Nov 13 22:01:28 2026 as: /usr/lib/nmap/nmap --privileged -sC -sV --top-ports 500 -oA 04_scanme_top500 scanme.nmap.org

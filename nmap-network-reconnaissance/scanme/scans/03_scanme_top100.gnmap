@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Fri Nov 13 22:22:34 2026 as: /usr/lib/nmap/nmap --privileged -sC -sV --top-ports 100 -oA 03_scanme_top100 scanme.nmap.org
+Host: 45.33.32.156 (scanme.nmap.org)	Status: Up
+Host: 45.33.32.156 (scanme.nmap.org)	Ports: 21/closed/tcp//ftp///, 22/open/tcp//ssh//OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.7 ((Ubuntu))/, 110/closed/tcp//pop3///, 139/closed/tcp//netbios-ssn///, 443/closed/tcp//https///, 445/closed/tcp//microsoft-ds///, 993/closed/tcp//imaps///, 3389/closed/tcp//ms-wbt-server///, 5900/closed/tcp//vnc///	Ignored State: filtered (90)
+# Nmap done at Fri Nov 13 22:22:58 2026 -- 1 IP address (1 host up) scanned in 24.05 seconds

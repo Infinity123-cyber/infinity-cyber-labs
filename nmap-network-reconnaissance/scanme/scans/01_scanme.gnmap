@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Fri Nov 13 21:57:09 2026 as: /usr/lib/nmap/nmap --privileged -sC -sV -oA 01_scanme scanme.nmap.org
