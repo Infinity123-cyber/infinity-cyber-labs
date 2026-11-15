@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Sun Nov 15 18:29:42 2026 as: /usr/lib/nmap/nmap --privileged -sV --script vuln -oA 03_metasploitable_vuln 192.168.56.102
